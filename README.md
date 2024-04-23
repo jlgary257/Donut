@@ -4,6 +4,8 @@
 
 Based on spinning ASCII Donut: [a1k0n.net/2011/07/20/donut-math](https://www.a1k0n.net/2011/07/20/donut-math.html)  
 
+Testing purposes only.
+
 ## Flavors
 
 * C
